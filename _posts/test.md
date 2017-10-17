@@ -1,12 +1,12 @@
 unity_dir: shield_lord
 ---
 title: "Test Post"
-date: 2017-17-13
+date: 2017-10-13
 unity_dir: game_post
 categories:
-  -General
+  - General
 tags:
-  -test
+  - test
 ---
 
-This is a test post
+This is a test post.
