@@ -1,5 +1,6 @@
 ---
 unity_dir: shield_lord
+permalink: /shieldlord/
 title: "test post"
 date: 2017-10-17
 unity_dir: shield_lord
