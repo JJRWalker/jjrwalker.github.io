@@ -2,7 +2,7 @@
 permalink: /shieldlord/
 title: "Shield Lord"
 date: 2017-10-17
-layout: default
+layout: single
 categories:
   - General
 tags:
