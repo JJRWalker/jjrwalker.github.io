@@ -3,7 +3,7 @@ permalink: /shieldlord/
 title: "Shield Lord"
 date: 2017-10-17
 layout: single
-stiemap: true
+sitemap: true
 categories:
   - General
 tags:
