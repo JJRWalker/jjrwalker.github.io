@@ -251,4 +251,3 @@ defaults:
       comments: # true
       share: true
       related: true
-safe: false
