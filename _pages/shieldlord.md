@@ -8,11 +8,5 @@ categories:
 tags:
   - test
 ---
-
-<p align="center">
-  <b>Shield Lord</b><br>
-  <b>
-    <iframe src="https://jjrwalker.github.io/assets/unity/shield_lord/index.html" style="border:0px #000000 none;" name="Game name"           scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="900px" width="1600px"></iframe>
-  </b><br>
-</p>
+<iframe src="https://jjrwalker.github.io/assets/unity/shield_lord/index.html" style="border:0px #000000 none;" name="Game name"           scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="900px" width="1600px"></iframe>
 
