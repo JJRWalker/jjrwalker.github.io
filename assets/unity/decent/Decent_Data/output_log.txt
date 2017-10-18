@@ -1,0 +1,90 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8085 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
+Loading D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\System.Data.dll (this message is harmless)
+Loading D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\System.Data.dll into Unity Child Domain
+- Completed reload, in  0.199 seconds
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3000x1920 at 0,-544
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 29.134287 ms
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: D:\Uni\2nd Year\1st sem\Design and implementation\Decent Build\Decent_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/sqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/.\libsqlite
+Fallback handler could not load library D:/Uni/2nd Year/1st sem/Design and implementation/Decent Build/Decent_Data/Mono/libsqlite
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 37b0 -> priority: 1 
