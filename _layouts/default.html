@@ -14,9 +14,9 @@
     {% include head/custom.html %}
   </head>
   
-  <nav>
+  <side>
     {% include author-profile.html %}
-  </nav>
+  </side>
   
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
