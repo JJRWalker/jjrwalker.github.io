@@ -9,14 +9,12 @@ categories:
 tags:
   - test
 ---
+# CV
+------
 
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-    
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-
-    <div id="main" role="main">
-      <embed src="https://jjrwalker.github.io/assets/pdf/CV.pdf" width="700px" hight="1500px" />
-    </div>
-  </body>
-</html>
+<body>
+<div id="main" role="main">
+  <embed src="https://jjrwalker.github.io/assets/pdf/CV.pdf" width="700px" hight="1500px" />
+</div>
+</body>
 
