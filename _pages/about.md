@@ -42,4 +42,4 @@ Delivered a section of the presentation at the final event
 Social responsibility award (Young enterprise scheme), IT manager in a Young Enterprise business.
 Delivered a presentation on my responsibilities in the company to 100+ other members of the scheme (Young enterprise scheme)
 
-[PDF] (https://jjrwalker.github.io/assets/pdf/CV.pdf)
+[PDF](https://jjrwalker.github.io/assets/pdf/CV.pdf)
