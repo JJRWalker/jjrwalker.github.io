@@ -12,7 +12,6 @@ tags:
 # CV
 ------
 ## Joshua Walker
-josh.walker@outlook.com | jjrwalker.github.io| https://www.linkedin.com/in/joshua-walker-86ba16127/ | 07447092789
 Personal Description
 Aspiring game developer, currently a 3rd year on the Computer Gaming Technology course at Anglia Ruskin University.
 Enthusiastic and looking to make a start in the gaming industry.
