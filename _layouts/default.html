@@ -14,8 +14,9 @@
     {% include head/custom.html %}
   </head>
     
-
-  {% include sidebar.html %}
+  <div id="main" role="main">
+    {% include sidebar.html %}
+  </div>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
