@@ -9,6 +9,4 @@ categories:
 tags:
   - test
 ---
-<body>
-<object width="700" hight="1400" data="/assets/pdf/CV.pdf"></object>
-</body>
+<iframe src="assets/pdf/CV.pd" style="width: 100%; hight: 100%; border: none;"></iframe>
