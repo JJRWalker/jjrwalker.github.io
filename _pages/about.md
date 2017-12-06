@@ -17,7 +17,8 @@ Aspiring game developer, currently a 3rd year on the Computer Gaming Technology 
 Enthusiastic and looking to make a start in the gaming industry.
 Comfortable and experienced in working alone or as part of a team.
 ## Skills
-|Skill      |Rating (out of 5)|
+
+|Skill      |Rating (out of 5)      |
 |-----------------------|---------------|
 |C++				            |2              |
 |C#					            |	3.5           |
@@ -27,6 +28,7 @@ Comfortable and experienced in working alone or as part of a team.
 |SQLite / Databases			|3.5            |
 |Source control					|4              |
 |Writing test code			|3.5            |
+
 
 ## Education
 Computer Gaming Technology - Anglia Ruskin University (2015 - Present)
