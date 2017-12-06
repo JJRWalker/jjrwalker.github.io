@@ -1,5 +1,6 @@
 ---
 layout: default
+author_profile: true
 permalink: /about/
 title: "About"
 date: 2017-12-06
