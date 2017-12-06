@@ -2,15 +2,13 @@
 layout: archive
 author_profile: true
 permalink: /about/
-title: "About"
+title: "CV"
 date: 2017-12-06
 categories:
   - General
 tags:
   - test
 ---
-# CV
-------
 ## Joshua Walker
 Personal Description
 Aspiring game developer, currently a 3rd year on the Computer Gaming Technology course at Anglia Ruskin University.
