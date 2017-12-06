@@ -9,4 +9,4 @@ categories:
 tags:
   - test
 ---
-<embed src="assets/pdf/CV.pdf" width="700px" hight="1500px" />
+<embed src="https://jjrwalker.github.io/assets/pdf/CV.pdf" width="700px" hight="1500px" />
