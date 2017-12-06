@@ -2,8 +2,11 @@
 permalink: /shieldlord/
 title: "Shield Lord"
 date: 2017-10-17
-layout: archive
+layout: splash
 sitemap: true
 ---
-<iframe src="https://jjrwalker.github.io/assets/unity/shield_lord/index.html" style="border:0px #000000 none;" name="Game name"           scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="900px" width="1600px"></iframe>
+<center>
+  <br>Shield Lord<br>
+  <iframe src="https://jjrwalker.github.io/assets/unity/shield_lord/index.html" style="border:0px #000000 none;" name="Game name"           scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="900px" width="1600px"></iframe>
+</center>
 
