@@ -2,10 +2,7 @@
 permalink: /hellrunner/
 title: "Hell Runner"
 date: 2017-10-18
-categories:
-  - General
-tags:
-  - test
+layout: archive
 ---
 <p align="center">
   <b>Hell Runner</b><br>
