@@ -29,7 +29,6 @@ Comfortable and experienced in working alone or as part of a team.
 |Source control|4|
 |Writing test code|3.5|
 
-
 ## Education
 Computer Gaming Technology - Anglia Ruskin University (2015 - Present)
 2nd year grades mostly As with 1 B.
