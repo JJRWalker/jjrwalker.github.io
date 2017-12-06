@@ -9,5 +9,6 @@ categories:
 tags:
   - test
 ---
-
-<object width="400" hight="700" data="/assets/pdf/CV.pdf"></object>
+<body>
+<object width="700" hight="1400" data="/assets/pdf/CV.pdf"></object>
+</body>
