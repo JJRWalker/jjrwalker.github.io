@@ -1,4 +1,5 @@
 ---
+layout: single
 include: author-profile
 permalink: /about/
 title: "About"
