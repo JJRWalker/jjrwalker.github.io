@@ -12,7 +12,5 @@ tags:
 # CV
 ------
 
-<body>
-  <embed src="https://jjrwalker.github.io/assets/pdf/CV.pdf" width="700px" hight="1500px" />
-</body>
+<iframe src="/assets/pdf/CV.pdf"  style="width: 100%; hight= 100%; border: none;" />
 
