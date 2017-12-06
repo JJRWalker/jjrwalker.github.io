@@ -9,3 +9,4 @@ categories:
 tags:
   - test
 ---
+{% include author-profile.html %}
