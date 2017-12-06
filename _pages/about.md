@@ -10,4 +10,4 @@ tags:
   - test
 ---
 
-<object width="400" hight="700" data="/assets/cv.pdf"></object>
+<object width="400" hight="700" data="/assets/pdf/CV.pdf"></object>
