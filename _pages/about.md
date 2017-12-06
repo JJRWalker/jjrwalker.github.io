@@ -1,6 +1,5 @@
 ---
 layout: default
-includes: author-profile.html
 permalink: /about/
 title: "About"
 date: 2017-12-06
@@ -9,4 +8,3 @@ categories:
 tags:
   - test
 ---
-{% include author-profile-custom-links.html %}
