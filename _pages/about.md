@@ -9,4 +9,4 @@ categories:
 tags:
   - test
 ---
-<embed src="assets/pdf/CV.pdf" width="700" hight="1500"></embed>
+<embed src="assets/pdf/CV.pdf" width="700px" hight="1500px" />
