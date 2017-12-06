@@ -9,6 +9,7 @@ categories:
 tags:
   - test
 ---
+------
 ## Joshua Walker
 Personal Description
 Aspiring game developer, currently a 3rd year on the Computer Gaming Technology course at Anglia Ruskin University.
