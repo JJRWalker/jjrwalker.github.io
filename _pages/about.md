@@ -18,16 +18,16 @@ Enthusiastic and looking to make a start in the gaming industry.
 Comfortable and experienced in working alone or as part of a team.
 ## Skills
 
-|Skill      |Rating (out of 5)      |
-|-----------------------|---------------|
-|C++				            |2              |
-|C#					            |	3.5           |
-|Python			            |	2             |
-|object oriented design |4              |
-|UML class diagrams			|4              |
-|SQLite / Databases			|3.5            |
-|Source control					|4              |
-|Writing test code			|3.5            |
+|Skill |Rating (out of 5) |
+|-----|-----|
+|C++|2|
+|C#|3.5|
+|Python|2|
+|object oriented design |4|
+|UML class diagrams|4|
+|SQLite / Databases|3.5|
+|Source control|4|
+|Writing test code|3.5|
 
 
 ## Education
