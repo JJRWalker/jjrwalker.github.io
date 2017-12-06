@@ -2,11 +2,13 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
    #- title: "Sample Posts"
    #  url: /year-archive/
-   - title: "Shield Lord"
-     url: /shieldlord/
    - title: "Hell Runner"
-     url: /hellrunner/
+      url: /hellrunner/
+   - title: "Project 2"
+     url: /shieldlord/
+   - title: "Project 3"
+     url: /decent/
+   - title: "About"
+     url: /about/
