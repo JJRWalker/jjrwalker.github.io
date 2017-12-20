@@ -20,4 +20,4 @@ AR Zombies is a procedually generated Lightgun shooter, simular to that of the h
 ## About the project
 This was a third year project for a module called emergent gaming technologies. This module focused on alternative inputs / technologies used in unique ways. The main focus of the project was to make something that was accessible for everyone (or at least most people), meaning they would not have to purchase additional equipment. The project uses a plugin called Vuforia to track AR tags, this plugin does not support standalone builds without a full licence. Due to this there is no build that is playable, instead I have included some unity files for the project. This includes a read me file showing you how to set it up within unity.
 
-| [**_Download_**](/assets/unity/HellRunnerBuild.zip) Place holder
+| [**_Download_**](/assets/unity/arzombies.zip)
