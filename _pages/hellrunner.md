@@ -11,4 +11,4 @@ layout: archive
 |-----|-----|-----|-----|
 |Windows PC|Unity(c#)|Gameplay programmer, artist, audio programmer|4 weeks|
 
-[Link to game](https://jjrwalker.github.io/hellrunnergame/)
+[**_Link to game_**](https://jjrwalker.github.io/hellrunnergame/)
