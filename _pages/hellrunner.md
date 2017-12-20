@@ -8,6 +8,7 @@ layout: archive
 ---
 ## About Hell Runner
 Hell runner is a procedually generated infinite runner, set in hell. The player must jump over spikes and gaps to earn points. Once the player hits too many spikes or runs out of lives the game ends.
+
 ---
 
 |Platform |Engine |Role |Project duration |
