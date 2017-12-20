@@ -4,8 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Hell Runner"
      url: /hellrunner/
-   - title: "Project 2"
-     url: /shieldlord/
+   - title: "AR Zombies"
+     url: /arzombies/
    - title: "Project 3"
      url: /decent/
    - title: "About"
