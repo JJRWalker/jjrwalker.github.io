@@ -2,7 +2,7 @@
 permalink: /hellrunnergame/
 title: "Hell Runner Game"
 date: 2017-10-18
-layout: archive
+layout: splash
 ---
 <center>
   <br>Hell Runner<br>
