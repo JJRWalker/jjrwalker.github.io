@@ -2,10 +2,7 @@
 permalink: /hellrunner/
 title: "Hell Runner"
 date: 2017-10-18
-layout: splash
+layout: archive
 ---
-<center>
-  <br>Hell Runner<br>
-   <iframe src="https://jjrwalker.github.io/assets/unity/hell_runner/index.html" style="border:0px #000000 none;" name="Game name"            scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="900px" width="1600px"></iframe>
-  <br><br>
-</center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6FlWQevKww" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+---
