@@ -32,8 +32,6 @@ Comfortable and experienced in working alone or as part of a team.
 Computer Gaming Technology - Anglia Ruskin University (2015 - Present)
 2nd year grades mostly As with 1 B.
 ## Work Experience
-KP - The Carriers Inn (Bude, Cornwall) 2012 - 2013
-Cleaning / General help around the bar
 IT Manager - Compassionate Candles (Young Enterprise Scheme) 2014
 Responsible for maintaining social media
 Helped in manufacturing of the product
@@ -42,4 +40,4 @@ Delivered a section of the presentation at the final event
 Social responsibility award (Young enterprise scheme), IT manager in a Young Enterprise business.
 Delivered a presentation on my responsibilities in the company to 100+ other members of the scheme (Young enterprise scheme)
 
- | [**_PDF_**](https://jjrwalker.github.io/assets/pdf/CV.pdf)
+ | [**_PDF Download_**](https://jjrwalker.github.io/assets/pdf/CV.pdf)
