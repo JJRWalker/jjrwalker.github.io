@@ -8,6 +8,6 @@ layout: archive
 ---
 |Platform  |Engine  |Role   |Project duration   |
 |-----|-----|-----|-----|
-|Windows PC|Unity(c#)|Gameplay programmer, artist, audio programmer|4 weeks|
+|Windows PC  |Unity(c#)  |Gameplay programmer, artist, audio programmer  |4 weeks  |
 
 [Link to game](https://jjrwalker.github.io/hellrunnergame/)
