@@ -21,12 +21,12 @@ Comfortable and experienced in working alone or as part of a team.
 |-----|-----|
 |C++|2|
 |C#|3.5|
-|Python|2|
+|Python|1|
 |object oriented design |4|
-|UML class diagrams|4|
+|UML class diagrams|3|
 |SQLite / Databases|3.5|
 |Source control|4|
-|Writing test code|3.5|
+|Writing test code(C#)|2|
 
 ## Education
 Computer Gaming Technology - Anglia Ruskin University (2015 - Present)
