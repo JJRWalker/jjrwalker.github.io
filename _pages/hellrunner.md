@@ -13,7 +13,7 @@ Hell runner is a procedually generated infinite runner, set in hell. The player 
 
 |Platform |Engine |Role |Project duration |
 |-----|-----|-----|-----|
-|Windows PC|Unity(c#)|Gameplay programmer, artist, audio programmer|4 weeks|
+|Windows PC|Unity(c#)|Gameplay programmer, artist, audio programmer|6 weeks|
 
 ---
 ## About the project
