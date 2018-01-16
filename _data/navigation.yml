@@ -6,7 +6,7 @@ main:
      url: /hellrunner/
    - title: "AR Zombies"
      url: /arzombies/
-   - title: "Project 3"
-     url: /decent/
+   #- title: "Project 3"
+     #url: /decent/
    - title: "About"
      url: /about/
