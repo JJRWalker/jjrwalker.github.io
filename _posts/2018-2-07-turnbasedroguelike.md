@@ -1,6 +1,7 @@
 ---
 title: "Turn-Based Roguelike Introduction 07/02/2018"
 date: 2018-2-07
+excerpt_separator: <!--more-->
 categories:
   - General
 tags:
@@ -9,6 +10,7 @@ tags:
   - Roguelike
   - turnbased
 ---
+<!--more-->
 ## Introduction
 These posts will show the development process for a turn-based roguelike that I have decided to create for a university module. The main goal of this project is to attempt a unique style of turn-based gameplay. For the duration of this project I will mainly be focusing on the programming element, and the design thereof. The game will be developed in Unity using C#.
 ## The Game
