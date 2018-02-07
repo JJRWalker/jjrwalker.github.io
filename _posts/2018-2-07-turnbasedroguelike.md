@@ -1,7 +1,6 @@
 ---
 title: "Turn-Based Roguelike Introduction 07/02/2018"
 date: 2018-2-07
-excerpt_separator: <!--more-->
 categories:
   - General
 tags:
@@ -12,7 +11,6 @@ tags:
 ---
 ## Introduction
 These posts will show the development process for a turn-based roguelike that I have decided to create for a university module. The main goal of this project is to attempt a unique style of turn-based gameplay. For the duration of this project I will mainly be focusing on the programming element, and the design thereof. The game will be developed in Unity using C#.
-<!--more-->
 ## The Game
 The game I will be making is a fantasy roguelike, which combines hack and slash mechanics for regular enemies with simple turn-based mechanics for bosses. The game will include RPG elements, such as a party and character stats, which will have different effects in the two styles (Party members will count a lives outside of a turn based scenario). The game should play like Darkest Dungeon meets Diablo.
 ## The risks
