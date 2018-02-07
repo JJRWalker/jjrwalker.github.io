@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-taxonomy
 author_profile: true
 permalink: /blog/
 title: "Blog"
