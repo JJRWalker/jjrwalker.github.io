@@ -8,5 +8,7 @@ main:
      url: /arzombies/
    #- title: "Project 3"
      #url: /decent/
+   - title: "Blog"
+     url: /blog/
    - title: "About"
      url: /about/
