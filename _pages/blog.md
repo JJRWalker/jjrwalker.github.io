@@ -10,3 +10,6 @@ tags:
   - Game development
   - Game Design
 ---
+<html>
+  {% include paginator.html %}
+</html>
