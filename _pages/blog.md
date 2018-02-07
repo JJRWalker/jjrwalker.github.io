@@ -2,6 +2,7 @@
 layout: archive-taxonomy
 author_profile: true
 permalink: /blog/
+paginator: true
 title: "Blog"
 date: 2018-2-02
 categories:
@@ -10,6 +11,3 @@ tags:
   - Game development
   - Game Design
 ---
-<html>
-  {% include paginator.html %}
-</html>
