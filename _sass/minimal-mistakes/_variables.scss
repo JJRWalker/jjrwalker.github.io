@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size                : 16 !default;
+$doc-font-size                : 12 !default;
 
 /* paragraph indention */
 $paragraph-indent             : false !default; // true, false (default)
@@ -98,7 +98,7 @@ $youtube-color                : #bb0000 !default;
 $xing-color                   : #006567 !default;
 
 /* links */
-$link-color                   : #0066ff;
+$link-color                   : #425DFA;
 $link-color-hover             : mix(#000, $link-color, 25%) !default;
 $link-color-visited           : mix(#fff, $link-color, 25%) !default;
 $masthead-link-color          : $primary-color !default;
