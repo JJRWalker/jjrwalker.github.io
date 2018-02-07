@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: archive_posts
 author_profile: true
 permalink: /blog/
 paginator: true
