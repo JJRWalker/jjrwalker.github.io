@@ -14,7 +14,5 @@ tags:
 ## UML - Class diagrams
 
 <html>
-<iframe width="560" height="315" 
-src="https://jjrwalker.github.io/assets/ProfessionalPortfolioUML.jpg" frameborder="0" 
-gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+  <img src="/assets/ProfessionalPortfolioUML.jpg" alt="Class diagram">
 </html>
