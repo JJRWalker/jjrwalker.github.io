@@ -14,5 +14,5 @@ tags:
 ## UML - Class diagrams
 
 <html>
-  <img src="/assets/ProfessionalPortfolioUML.jpg" alt="Class diagram">
+  <img src="https://jjrwalker.github.io/assets/ProfessionalPortfolioUML.jpg" alt="Class diagram">
 </html>
