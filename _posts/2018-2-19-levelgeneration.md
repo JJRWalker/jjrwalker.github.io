@@ -23,5 +23,5 @@ Then I enter a while loop, which repeats until the current x and z equal the bos
 The final result looks like this
 
 <html>
-  <img src = https://jjrwalker.github.io/assets/images/LevelGeneration.jpg alt="Level Generation">
+  <img src="https://jjrwalker.github.io/assets/images/LevelGeneration.jpg" alt="Level Generation">
 </html>
