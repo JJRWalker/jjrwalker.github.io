@@ -10,6 +10,7 @@ tags:
   - Roguelike
   - turnbased
 ---
+
 <!--more-->
 ## Design  
 The method for procedual generation that I have used is firstly generate a 2D array of cube objects, secondly spawn 2 objectives (Player and Boss spawns) and finally connect the 2 and generate rooms allong the way. At the center of these rooms I will create a monster spawner, that will spawn a series of monsters from the games database (More detail on that later). Later on I will be creating a script (or including a method in the same script) that will generate filler rooms where random party members will have a chance to spawn.
@@ -20,6 +21,7 @@ How I decided to implement this was to firstly choose a random position on the 2
 Then I enter a while loop, which repeats until the current x and z equal the boss x and z. In this loop I run another method called SpawnRoom() which creates a corridor by lowering the currently selected cube and adding either the up or right variables, this repeats a random number of times. After spawning a corridor the method then uses the same method to spawn a room of random dimentions. When the current x and z variables are equal to the center of this room a monster spawner is created.
 
 The final result looks like this
+
 <html>
   <img src = https://jjrwalker.github.io/assets/images/LevelGeneration.jpg alt="Level Generation">
 </html>
