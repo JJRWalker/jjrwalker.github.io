@@ -26,7 +26,7 @@ Comfortable and experienced in working alone or as part of a team.
 |UML class diagrams|3|
 |SQLite / Databases|3.5|
 |Source control|4|
-|Writing test code(C#)|2|
+|Test code(C#)|2|
 
 ## Education
 Computer Gaming Technology - Anglia Ruskin University (2015 - Present)
