@@ -37,4 +37,7 @@ The next thing I added was several methods for generating player stats, these wi
 ### Item Generation  
 Another mechanic I added was Item generation. An item can be one of 6 different types: heal, dup (damage up), aup (attack up), poison (adds a bleed effect to weapon attacks), armour and weapons. These also have a magnitude value associated with them that is used as a form of rarity scale, ranging from 1 to 2.5. These multiply the effects of the item. Items can be generated using the base constructor (totally random) ,or one of 3 others that allow to set a hard value for either the magnitude or item type (or both). These Items are stored inside the inventory class (inside a list of items).  
 ### Basic UI  
-Finally I added a very basic UI that shows the party members health and a basic turn UI that moves dependent on the current players turn.  
+Finally I added a very basic UI that shows the party members health and a basic turn UI that moves dependent on the current players turn.  
+<html>
+  <img src="https://jjrwalker.github.io/assets/images/TurnSystem.jpg" alt="Turn System">
+</html>
