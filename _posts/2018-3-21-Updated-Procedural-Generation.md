@@ -17,8 +17,14 @@ tags:
 Firstly I have changed the way that the level is generated. Where before I used a goal first approach, I have now opted for a room first approach. What I mean by this is that before I would essentially be creating a path from 2 predetermined points, whereas now I create a series of rooms, ensure they are connected and then spawn these points. This results in a much less liner result, and will encourage the player to actively explore rather than following a path. This also means that the majority of the rooms are “optional” so anything spawned inside them is then a reward for the player.  
 
 What it used to look like:  
+<html>
+  <img src="https://jjrwalker.github.io/assets/images/LevelGeneration.jpg" alt="Level Generation">
+</html>
+What it looks like now:  
+<html>
+  <img src="https://jjrwalker.github.io/assets/images/New level generation.jpg" alt="New Level Generation">
+</html>
 
-What it looks like now:
 
 ### Attacking  
 Another mechanic I have changed is how the player can attack. Attacking used to be handled using a raycast meaning attacks needed to be very precise in order to hit. I have now changed them so they are based on a selection of 3 hitboxes. These are narrow, normal and wide these should have enough variability to make the weapons feel feel different from each other.  
