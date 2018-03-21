@@ -22,7 +22,7 @@ What it used to look like:
 </html>
 What it looks like now:  
 <html>
-  <img src="https://jjrwalker.github.io/assets/images/New level generation.jpg" alt="New Level Generation">
+  <img src="https://jjrwalker.github.io/assets/images/New level genereation.jpg" alt="New Level Generation">
 </html>
 
 
