@@ -1,5 +1,5 @@
 ---
-title: "Level Generation 19/02/2018"
+title: "Updated Level Generation 19/02/2018"
 date: 2018-2-19
 excerpt_separator: <!--more-->
 categories:
