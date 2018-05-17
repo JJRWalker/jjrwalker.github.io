@@ -14,7 +14,7 @@ AR Zombies is a procedually generated Lightgun shooter, simular to that of the h
 
 |Platform |Engine |Role |Project duration |
 |-----|-----|-----|-----|
-|Windows PC|Unity(c#)|Programmer / artist|10 weeks|
+|Windows PC|Unity(c#)|Programmer / Designer /Artist|10 weeks|
 
 ---
 ## About the project
