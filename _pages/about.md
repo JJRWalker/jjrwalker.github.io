@@ -16,26 +16,34 @@ Aspiring game developer, currently a 3rd year on the Computer Gaming Technology 
 Enthusiastic and looking to make a start in the gaming industry.
 Comfortable and experienced in working alone or as part of a team.
 ## Skills
+C++
+C#
+Java Script
+Object oriented design / programming
+UML class diagrams
+SQLite / Databases
+Source control
 
-|Skill |Rating (out of 5) |
-|-----|-----|
-|C++|2|
-|C#|3.5|
-|Python|1|
-|object oriented design |4|
-|UML class diagrams|3|
-|SQLite / Databases|3.5|
-|Source control|4|
-|Test code(C#)|2|
+## Hobbies
+Playing a wide range of video games
+Tabletop RPGs with friends once a week
+Interacting with online communities (e.g. Twitch
+and Discord)
 
 ## Education
-Computer Gaming Technology - Anglia Ruskin University (2015 - Present)
-2nd year grades mostly As with 1 B.
+Computer Gaming Technology BSc - Anglia Ruskin University (2015 - 2018)
+Course Averages: 2nd (75.4%), 3rd (67.6% marks of 2nd semester not included)
+Modules: Object Oriented C++ (73%), Software Design and Implementation (86%), Game Design and
+Development (68%), Artificial Intelligence (64%), Emergent Gaming technologies (79%), Interaction and
+Usability (70%), Professional Issues: Video Games and Society (60%).
+A Levels - Budehaven Community School (2013 - 2015).
+ICT (Distinction Merit), Business and Economics (E)
+11 GCSEs (B - D) Including Maths (B), Computing (B), English (C)
+
 ## Work Experience
-IT Manager - Compassionate Candles (Young Enterprise Scheme) 2014
-Responsible for maintaining social media
-Helped in manufacturing of the product
-Delivered a section of the presentation at the final event
+AR Zombies (Student Project, solo) - Designed core loop, Implemented AR functionality
+Hellrunner (Student Project, group) - Gameplay programmer, Audio programmer
+
 ## Accolades
 Social responsibility award (Young enterprise scheme), IT manager in a Young Enterprise business.
 Delivered a presentation on my responsibilities in the company to 100+ other members of the scheme (Young enterprise scheme)
