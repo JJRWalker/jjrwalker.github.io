@@ -16,19 +16,19 @@ Aspiring game developer, currently a 3rd year on the Computer Gaming Technology 
 Enthusiastic and looking to make a start in the gaming industry.
 Comfortable and experienced in working alone or as part of a team.
 ## Skills
-C++
-C#
-Java Script
-Object oriented design / programming
-UML class diagrams
-SQLite / Databases
-Source control
+C++  
+C#  
+Java Script  
+Object oriented design / programming  
+UML class diagrams  
+SQLite / Databases  
+Source control  
 
 ## Hobbies
-Playing a wide range of video games
-Tabletop RPGs with friends once a week
+Playing a wide range of video games  
+Tabletop RPGs with friends once a week  
 Interacting with online communities (e.g. Twitch
-and Discord)
+and Discord)  
 
 ## Education
 Computer Gaming Technology BSc - Anglia Ruskin University (2015 - 2018)
