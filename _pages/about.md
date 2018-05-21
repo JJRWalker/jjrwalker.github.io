@@ -31,18 +31,18 @@ Interacting with online communities (e.g. Twitch
 and Discord)  
 
 ## Education
-Computer Gaming Technology BSc - Anglia Ruskin University (2015 - 2018)
-Course Averages: 2nd (75.4%), 3rd (67.6% marks of 2nd semester not included)
+Computer Gaming Technology BSc - Anglia Ruskin University (2015 - 2018)  
+Course Averages: 2nd (75.4%), 3rd (67.6% marks of 2nd semester not included)  
 Modules: Object Oriented C++ (73%), Software Design and Implementation (86%), Game Design and
 Development (68%), Artificial Intelligence (64%), Emergent Gaming technologies (79%), Interaction and
-Usability (70%), Professional Issues: Video Games and Society (60%).
-A Levels - Budehaven Community School (2013 - 2015).
-ICT (Distinction Merit), Business and Economics (E)
-11 GCSEs (B - D) Including Maths (B), Computing (B), English (C)
+Usability (70%), Professional Issues: Video Games and Society (60%).  
+A Levels - Budehaven Community School (2013 - 2015).  
+ICT (Distinction Merit), Business and Economics (E)  
+11 GCSEs (B - D) Including Maths (B), Computing (B), English (C)  
 
 ## Work Experience
-AR Zombies (Student Project, solo) - Designed core loop, Implemented AR functionality
-Hellrunner (Student Project, group) - Gameplay programmer, Audio programmer
+AR Zombies (Student Project, solo) - Designed core loop, Implemented AR functionality  
+Hellrunner (Student Project, group) - Gameplay programmer, Audio programmer  
 
 ## Accolades
 Social responsibility award (Young enterprise scheme), IT manager in a Young Enterprise business.
