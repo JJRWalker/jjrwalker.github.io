@@ -32,7 +32,7 @@ and Discord)
 
 ## Education
 **Computer Gaming Technology BSc - Anglia Ruskin University (2015 - 2018)**
-Course Averages: 2nd (75.4%), 3rd (64.5%)
+**Grade: First Class Honours**
 Modules: 
 
 **2nd Year**
