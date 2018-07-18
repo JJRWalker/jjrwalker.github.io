@@ -31,7 +31,7 @@ Interacting with online communities (e.g. Twitch
 and Discord)  
 
 ## Education
-**Computer Gaming Technology BSc - Anglia Ruskin University (2015 - 2018)**
+**Computer Gaming Technology BSc - Anglia Ruskin University (2015 - 2018)**  
 **Grade: First Class Honours**  
 Modules: 
 
