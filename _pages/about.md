@@ -64,4 +64,5 @@ Hellrunner (Student Project, group) - Gameplay programmer, Audio programmer
 Social responsibility award (Young enterprise scheme), IT manager in a Young Enterprise business.
 Delivered a presentation on my responsibilities in the company to 100+ other members of the scheme (Young enterprise scheme)
 
- | [**_PDF Download_**](https://jjrwalker.github.io/assets/pdf/CV.pdf)
+ | [**_CV Download_**](https://jjrwalker.github.io/assets/pdf/CV.pdf)  
+ [** Dissertation Download **](https://jjrwalker.github.io/assets/pdf/How Machine Learning can be used to increase player understanding Newe.pdf)  
