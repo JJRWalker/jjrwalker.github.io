@@ -4,10 +4,6 @@ author_profile: false
 permalink: /cppconsoleapps/
 title: "C++ Console Applications"
 date: 2018-07-29
-categories:
-  - General
-tags:
-  - test
 ---
 ------
 ## Forest Fire Simulation
