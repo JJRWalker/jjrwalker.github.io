@@ -10,5 +10,7 @@ main:
      #url: /decent/
    - title: "Blog"
      url: /blog/
+   - title: "C++ Console Applicaions"
+     url: /cppconsoleapps/
    - title: "About"
      url: /about/
