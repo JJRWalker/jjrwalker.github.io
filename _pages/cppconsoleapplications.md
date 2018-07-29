@@ -13,4 +13,4 @@ This was written during my university course when I was tasked with creating a a
 # Dissertation
 Although there is no console application attached to my dissertation there are C++ design diagrams shown within the report. These outline a design for a machine learning AI that would teach the user how to improve their skills at chess.
 
- | [**Download***](https://jjrwalker.github.io/assets/pdf/How%20Machine%20Learning%20can%20be%20used%20to%20increase%20player%20understanding%20Newe.pdf)
+ | [**Download**](https://jjrwalker.github.io/assets/pdf/How%20Machine%20Learning%20can%20be%20used%20to%20increase%20player%20understanding%20Newe.pdf)
