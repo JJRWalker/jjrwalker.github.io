@@ -6,7 +6,7 @@ title: "C++ Console Applications"
 date: 2018-07-29
 ---
 # Forest Fire Simulation
-<iframe src="https://jjrwalker.github.io/assets/images/CodeExampleWeb.jpg" style="border:0px #000000 none;" name="Game name" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="300px" width="900px"></iframe>
+<iframe src="https://jjrwalker.github.io/assets/images/CodeExampleWeb.jpg" style="border:0px #000000 none;" name="Game name" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px"></iframe>
 
 This was written during my university course when I was tasked with creating a application that would simulate the spread of a forrest fire. This is a simple application to show previous work in C++ and will be replaced once I produce a portfolio piece. 
 
