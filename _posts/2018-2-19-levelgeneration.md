@@ -11,7 +11,6 @@ tags:
   - turnbased
 ---
 
-<!--more-->
 ## Design  
 The method for procedual generation that I have used is firstly generate a 2D array of cube objects, secondly spawn 2 objectives (Player and Boss spawns) and finally connect the 2 and generate rooms allong the way. At the center of these rooms I will create a monster spawner, that will spawn a series of monsters from the games database (More detail on that later). Later on I will be creating a script (or including a method in the same script) that will generate filler rooms where random party members will have a chance to spawn.
 
