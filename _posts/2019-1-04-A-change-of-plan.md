@@ -1,6 +1,6 @@
 ---
 title: "A change of plan 04/01/2019"
-date: 2018-3-21
+date: 2019-1-04
 excerpt_separator: <!--more-->
 categories:
   - General
