@@ -11,7 +11,6 @@ tags:
   - turnbased
 ---
 
-<!--more-->
 ## Changes  
 ### Procedural Generation  
 Firstly I have changed the way that the level is generated. Where before I used a goal first approach, I have now opted for a room first approach. What I mean by this is that before I would essentially be creating a path from 2 predetermined points, whereas now I create a series of rooms, ensure they are connected and then spawn these points. This results in a much less liner result, and will encourage the player to actively explore rather than following a path. This also means that the majority of the rooms are “optional” so anything spawned inside them is then a reward for the player.  
