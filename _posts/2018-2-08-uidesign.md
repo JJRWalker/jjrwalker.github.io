@@ -10,7 +10,7 @@ tags:
   - Roguelike
   - turnbased
 ---
-<!--more-->
+
 ## Design - UI
 Below are some images showing how the UI in the game should work. They aren't extremely detailed, this is because the main focus of this project is the programming side. While I will still be creating these kinds of design documents, I ultimatly will not be marked on them at the end of the module.
 
