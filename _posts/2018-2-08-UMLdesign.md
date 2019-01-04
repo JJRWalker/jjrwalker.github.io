@@ -10,7 +10,7 @@ tags:
   - Roguelike
   - turnbased
 ---
-<!--more-->
+
 ## UML - Class diagrams
 Below is a diagram showing how the classes will interact with eachother, although they might end up slightly different in the final product.
 I recomend you open the image in a new tab so the text is legible.
