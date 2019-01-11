@@ -29,5 +29,6 @@ While I could scale up this method to cover the whole screen I think that this w
 As previously discussed I decided to implement a limited box system. The core functionality of which would revolve around having 4 item boxes that rotate positions based on their position in an array. The positions in this array are as follows: 0 - Previous item, 1 - Current Item, 2 - Next item, 3 - Hidden items.  
 Firstly I update the item cards to display the relevant information (currently only changes the name) based on their position in this array (Note: only updated on cycle and menu opening). Once the menu input is given and the menu is open, I then check for a directional input to cycle the menu in. Once this is done the program shifts the item to the position of either the next or the previous (depending on the direction inputted). When all of the item UI objects are moved the relevant array is updated with the new positions in the array.  
 There are a few other touches I added, such as interpolating between the positions to make it a smoother process, but that’s the core concept of it.  
+<html>
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ScornfulQuarrelsomeAmphibian' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/ScornfulQuarrelsomeAmphibian">via Gfycat</a></p>
-
+</html>
