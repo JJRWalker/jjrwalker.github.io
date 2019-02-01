@@ -23,5 +23,5 @@ To get data from the database I am using a plugin called SQLite along with some 
 ## Firing Stance
 Along with this I also implemented a standing fire frame for the player sprite, as it looked a little unnatural to have the gun rotate in their hand during the idle frame. This frame will flip based on the angle between the player’s up vector and the current position of the reticle, I already had some similar code for getting the dot product of two vectors so I just reused that.  
 <html>
-<iframe src="https://media.giphy.com/media/2rAF0ItSn7VYTHPBCr/source.mp4" width="640" height="404" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2rAF0ItSn7VYTHPBCr"></a></p>
+<iframe src="https://media.giphy.com/media/2rAF0ItSn7VYTHPBCr/source.mp4" width="640" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2rAF0ItSn7VYTHPBCr"></a></p>
 </html>
