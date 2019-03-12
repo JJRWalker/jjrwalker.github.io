@@ -20,30 +20,30 @@ challenges that it brings. It’s a goal of mine to inspire others with this sam
 together in the same way.
 ## Skills
 ● Programming  
-C#, C++  
+*C#, C++*  
 ● Design  
-Object oriented, UML, Game Design
-documents.  
+*Object oriented, UML, Game Design
+documents.*  
 ● Game Engines  
-Unity, Unreal 4  
+*Unity, Unreal 4*  
 ● Scripting  
-SQL, JavaScript  
+*SQL, JavaScript*  
 ● Source control  
-Git repositories, bitbucket  
+*Git repositories, bitbucket*  
 ● Mathematics  
-Vectors, 3D space, Statistics, Physics, Search Algorithms  
+*Vectors, 3D space, Statistics, Physics, Search Algorithms*  
 ● Project Management  
 
-## Hobbies
+## Hobbies  
 Playing a wide range of video games, predominantly WoW and Overwatch at this time however I also have a deep appreciation for single player RPGs (e.g. The Elder Scrolls, Fallout, Star Wars Knights of the Old Republic).  
 Tabletop RPGs with friends once a week including D&D and Dark Heresy.  
 Interacting with online communities (e.g. Twitch and Discord) and on a similar note attending conventions such as Insomnia.  
 
-## Education
-*Anglia Ruskin University*
-Computer Gaming Technology BSc First Class Honours (2015 - 2018)
-Dissertation - How Can Machine Learning Be Used To Increase Player Understanding
-*Budehaven Community School*
+## Education  
+*Anglia Ruskin University*  
+Computer Gaming Technology BSc First Class Honours (2015 - 2018)  
+Dissertation - How Can Machine Learning Be Used To Increase Player Understanding  
+*Budehaven Community School*  
 3 A Levels ICT (Double award: Distinction Merit), Business and Economics (E) (2013 - 2015)
 13 GCSEs (B-D) Including Maths (B), Computing (B), English (C), Physics (C), Chemistry (C),
 Biology (C) (2010 - 2013)
@@ -54,19 +54,19 @@ Biology (C) (2010 - 2013)
 module, during this project I created a house of the dead style shooter using AR tags and a webcam. I was
 responsible for the entire project but focused mainly on the core gameplay loop and design. I enjoyed this
 project because it allowed me to modernise the feel of an old CRT shooter while maintaining the feel of the
-gameplay.
+gameplay.  
 ***Hellrunner (Student Project, group)*** - Created as part of a university project designed to test how well we
 worked in a group and semi professional setting. I was responsible for most of the Gameplay
 programming, Audio Programming and Animations / Animation programming. This project was done in 3
-initial prototype sprints and a seperate sprint for the final version.
+initial prototype sprints and a seperate sprint for the final version.  
 ## Hobbies
 Playing a wide range of video games, predominantly WoW and Overwatch at this time however I also have
 a deep appreciation for single player RPGs (e.g. The Elder Scrolls, Fallout, Star Wars Knights of the Old
-Republic).
+Republic).  
 Tabletop RPGs with friends once a week including D&D and Dark Heresy, both as a game / dungeon
-master and as a player.
+master and as a player.  
 Interacting with online communities (e.g. Twitch and Discord) and on a similar note attending conventions
-such as Insomnia.
+such as Insomnia.  
 
 ## Accolades
 Social responsibility award (Young enterprise scheme), IT manager in a Young Enterprise business.
