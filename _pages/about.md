@@ -19,20 +19,20 @@ games in my spare time, and am enthused at the prospect of working on something 
 challenges that it brings. It’s a goal of mine to inspire others with this same passion, and to bring people
 together in the same way.
 ## Skills
-● Programming
-C#, C++
-● Design
+● Programming  
+C#, C++  
+● Design  
 Object oriented, UML, Game Design
-documents.
-● Game Engines
-Unity, Unreal 4
-● Scripting
-SQL, JavaScript
-● Source control
-Git repositories, bitbucket
-● Mathematics
-Vectors, 3D space, Statistics, Physics
-● Project Management
+documents.  
+● Game Engines  
+Unity, Unreal 4  
+● Scripting  
+SQL, JavaScript  
+● Source control  
+Git repositories, bitbucket  
+● Mathematics  
+Vectors, 3D space, Statistics, Physics, Search Algorithms  
+● Project Management  
 
 ## Hobbies
 Playing a wide range of video games, predominantly WoW and Overwatch at this time however I also have a deep appreciation for single player RPGs (e.g. The Elder Scrolls, Fallout, Star Wars Knights of the Old Republic).  
