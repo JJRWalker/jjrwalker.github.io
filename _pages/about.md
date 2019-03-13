@@ -32,7 +32,7 @@ documents.*
 *Git repositories, bitbucket*  
 ● Mathematics  
 *Vectors, 3D space, Statistics, Physics, Search Algorithms*  
-● Project Management  
+● Project Management Software  
 
 ## Hobbies  
 Playing a wide range of video games, predominantly WoW and Overwatch at this time however I also have a deep appreciation for single player RPGs (e.g. The Elder Scrolls, Fallout, Star Wars Knights of the Old Republic).  
