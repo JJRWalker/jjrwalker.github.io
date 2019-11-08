@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SQLite3.cpp.obj": [
+			"USQLite3.cpp.obj",
+			"USQLite3BPLibrary.cpp.obj"
+		],
+		"Module.SQLite3.gen.cpp.obj": [
+			"SQLite3.init.gen.cpp.obj",
+			"USQLite3BPLibrary.gen.cpp.obj"
+		]
+	}
+}

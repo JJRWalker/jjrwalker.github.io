@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SQLite3-0032.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\Joshua\Documents\Unreal Projects\SQLtest\Intermediate\Build\Win64\SQLtestEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Users\Joshua\Documents\Unreal Projects\SQLtest\Plugins\sqlite3\Intermediate\Build\Win64\UE4Editor\Development\SQLite3\Module.SQLite3.cpp.obj"
+"D:\Users\Joshua\Documents\Unreal Projects\SQLtest\Plugins\sqlite3\Intermediate\Build\Win64\UE4Editor\Development\SQLite3\Module.SQLite3.gen.cpp.obj"
+"D:\Users\Joshua\Documents\Unreal Projects\SQLtest\Plugins\sqlite3\Intermediate\Build\Win64\UE4Editor\Development\SQLite3\Default.rc2.res"
+/OUT:"D:\Users\Joshua\Documents\Unreal Projects\SQLtest\Plugins\sqlite3\Intermediate\Build\Win64\UE4Editor\Development\SQLite3\UE4Editor-SQLite3-0032.lib"
+/INCLUDE:IMPLEMENT_MODULE_SQLite3

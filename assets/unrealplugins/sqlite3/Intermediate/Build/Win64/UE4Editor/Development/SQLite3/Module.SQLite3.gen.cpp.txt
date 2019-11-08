@@ -1,0 +1,8 @@
+D:\Users\Joshua\Documents\Unreal Projects\SQLtest\Plugins\sqlite3\Intermediate\Build\Win64\UE4Editor\Development\SQLite3\Definitions.SQLite3.h
+D:\Users\Joshua\Documents\Unreal Projects\SQLtest\Plugins\sqlite3\Intermediate\Build\Win64\UE4Editor\Inc\SQLite3\SQLite3.init.gen.cpp
+D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Users\Joshua\Documents\Unreal Projects\SQLtest\Plugins\sqlite3\Intermediate\Build\Win64\UE4Editor\Inc\SQLite3\USQLite3BPLibrary.gen.cpp
+D:\Users\Joshua\Documents\Unreal Projects\SQLtest\Plugins\sqlite3\Source\SQLite3/Public/USQLite3BPLibrary.h
+D:\Users\Joshua\Documents\Unreal Projects\SQLtest\Plugins\sqlite3\Plugins\sqlite3.h
+d:\users\joshua\documents\unreal projects\sqltest\plugins\sqlite3\intermediate\build\win64\ue4editor\inc\sqlite3\USQLite3BPLibrary.generated.h
